@@ -9,4 +9,4 @@ My hobbies outside of coding are generally having an existential crisis that's a
 - ⚡Prounouns: they/them
 
 ![](https://github.com/reyhstone/github-stats/blob/master/generated/overview.svg)
-![](https://github.com/reyhstone/github-stats/blob/master/generated/languages.svg)
+![](https://github.com/username/github-stats/blob/master/generated/languages.svg)
