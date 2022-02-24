@@ -6,7 +6,7 @@ My hobbies outside of coding are generally having an existential crisis that's a
 
 - 🔭 I’m currently working on just figruing out the ropes of the development world (and the cybersecurity world)
 - 🌱 I’m currently learning Java and C++ (which are the two I am currently studying in uni)
-- Prounouns: they/them
+- ⚡Prounouns: they/them
 
 ![](https://github.com/reyhstone/github-stats/blob/master/generated/overview.svg)
 ![](https://github.com/reyhstone/github-stats/blob/master/generated/languages.svg)
