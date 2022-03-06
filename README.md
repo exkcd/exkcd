@@ -4,7 +4,7 @@ My name's Rey, and welcome to my Github profile :)
 
 I am currently a student in uni trying to figure out their life in the world of computer science.
 
-My hobbies outside of coding are generally having an existential crisis that's accompanied by a cup of coffee.
+My hobbies outside of coding include having an existential crisis that's accompanied by a cup of coffee.
 
 - 🔭 I'm currently working on just figruing out the ropes of the development world (and the cybersecurity world)
 - 🌱 I'm currently learning Java and C++ (which are the two I am currently studying in uni)
