@@ -10,5 +10,7 @@ My hobbies outside of coding include having an existential crisis that's accompa
 - 🌱 I'm currently learning Java and C++ (which are the two I am currently studying in college).
 - 😄 Prounouns: they/them
 
+**My username was inspired by Randal Munroe's webcomic xkcd, which if you haven't, you should check out.**
+
 ![](https://github.com/reyhstone/github-stats/blob/master/generated/overview.svg)
 ![](https://github.com/reyhstone/github-stats/blob/master/generated/languages.svg)
