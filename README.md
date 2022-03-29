@@ -11,6 +11,3 @@ My hobbies outside of coding include having an existential crisis that's accompa
 - 😄 Prounouns: they/them
 
 **Yes, my username was inspired by Randall Munroe's webcomic "xkcd".**
-
-![](https://github.com/reyhstone/github-stats/blob/master/generated/overview.svg)
-![](https://github.com/reyhstone/github-stats/blob/master/generated/languages.svg)
