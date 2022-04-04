@@ -2,7 +2,7 @@
 
 My name's Rey, and welcome to my Github profile :)
 
-I am currently a student in college trying to figure out their life in the world of computer science. My GitHub profile is mainly a showcase of the work done in college, and some other side projects I am pursuing on my own.
+I am currently a student in college trying to figure out the world of computer science. My GitHub profile is mainly a showcase of the work done in college, and some other side projects I am pursuing on my own.
 
 My hobbies outside of coding include having an existential crisis that's accompanied by a cup of coffee or tea.
 
