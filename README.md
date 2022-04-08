@@ -10,7 +10,7 @@ My hobbies outside of coding include having an existential crisis that's accompa
 - 🌱 I'm learning Java and C++ in college and Python, Ruby and HTML & CSS on my own.
 - 😄 Prounouns: they/them
 
-**Yes, my username was inspired by Randall Munroe's webcomic "xkcd".**
+**Yes, my username was inspired by Randall Munroe's webcomic "[xkcd](https://xkcd.com/)".**
 
 ![](https://github.com/exkcd/github-stats/blob/master/generated/overview.svg)
 ![](https://github.com/exkcd/github-stats/blob/master/generated/languages.svg)
