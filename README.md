@@ -6,7 +6,7 @@ I am currently a student in college trying to figure out the world of computer s
 
 My hobbies outside of coding include having an existential crisis that's accompanied by a cup of coffee or tea.
 
-- 🔭 I'm just figuring out the ropes of the world of coding and development. I'm aiming to achieve skills for future full-stack development.
+- 🔭 I'm just figuring out the ropes of the world of coding and development for future full-stack development.
 - 🌱 I'm learning Java and C++ in college and Python, Ruby and HTML & CSS on my own.
 - 😄 Prounouns: they/them
 
